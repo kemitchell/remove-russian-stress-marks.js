@@ -1,6 +1,6 @@
 {
   "name": "remove-russian-stress-marks",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "description": "remove Unicode stress marks from Russian texts",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
